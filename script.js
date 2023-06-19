@@ -16,7 +16,7 @@ function writePassword() {
 }
 
 function generatePassword() {
-// will need something to hold choosen options
+  var createdPassword = []
     }
 
 // will need function for password length

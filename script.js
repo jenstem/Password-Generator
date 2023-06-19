@@ -45,7 +45,7 @@ if (specialCharChoosen){
   }
 // will need a FOR loop
 for (let i = 0; i < passwordLength; i++) {
-    Math.floor(Math.random())
+    password += createdPassword[Math.floor(Math.random() * createdPassword.length)]
   }
 
 // Add event listener to generate button

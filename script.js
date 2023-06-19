@@ -30,10 +30,10 @@ if (passwordLength < 8 || passwordLength > 128) {
   return;
 }
 
-  var lowerCase = window.confirm("Click OK to include lowercase letters in your password.");
-  var upperCase = window.confirm("Click OK to include uppercase letters in your password.");
-  var numbersChoosen = window.confirm("Click OK to include numbers in your password.");
-  var specialCharChoosen = window.confirm("Click OK to include special characters in your password.");
+var lowerCase = window.confirm("Click OK to include lowercase letters in your password.");
+var upperCase = window.confirm("Click OK to include uppercase letters in your password.");
+var numbersChoosen = window.confirm("Click OK to include numbers in your password.");
+var specialCharChoosen = window.confirm("Click OK to include special characters in your password.");
 
 // Add options to password with concat - multiple if statement for each option
 if (lowerCase){

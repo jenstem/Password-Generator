@@ -34,13 +34,13 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshots:
 
-![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20Horiseon%20SEO%20Web%20Page.png)
-*This is a screenshot of the Password Generator when the user first sees it*
+![](https://github.com/jenstem/Password-Generator/blob/main/assets/passwordlength.png)
+*This is a screenshot of the Password Generator asking for the password length*
 
-![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20link%20in%20navigation%20bar.jpg)
-*This is a screenshot of one of the prompts*
+![](https://github.com/jenstem/Password-Generator/blob/main/assets/prompts.png)
+*This is a screenshot of ad additional prompts*
 
-![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20web%20page%20after%20clicking%20on%20link.jpg)
+![](https://github.com/jenstem/Password-Generator/blob/main/assets/passwordgen.png)
 *This is a screenshot of the password once it is generated*
 
 ## Notes:

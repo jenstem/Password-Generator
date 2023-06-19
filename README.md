@@ -4,7 +4,7 @@ Click [here](https://jenstem.github.io/horiseon_seo_web_page/) to see the websit
 
 ## Description
 
-As a current student, I wanted to create a password generator with or without certain criteria according to what the user picks.  I accomplished this by creating prompts that allow the user to pick the length of the password between 8 - 128 characters, if they would like lower case, upper case, numberic or special characters in their password.  If the user picks a password length of less than 8 or greater than 128 characters, they are not allowed to move forward to generate a password.
+As a current student, I wanted to create a password generator with or without certain criteria according to what the user picks.  I accomplished this by creating prompts that allow the user to pick the length of the password between 8 - 128 characters, and if they would like lower case, upper case, numberic or special characters in their password.  If the user picks a password length of less than 8 or greater than 128 characters, they are not allowed to move forward to generate a password.
 
 You can navigate the site by clicking on the red "Generate Password" button.  Clicking on this button will start the prompts of picking the length of the password, and any additional characters the user would like in their password.  Then the password is generated in the box provided.
 

@@ -42,7 +42,7 @@ if (numbersChoosen){
 if (specialCharChoosen){
   createdPassword = createdPassword.concat(specialCharOptions)
   }
-// will need a FOR loop
+
 for (let i = 0; i < passwordLength; i++) {
     password += createdPassword[Math.floor(Math.random() * createdPassword.length)]
   }

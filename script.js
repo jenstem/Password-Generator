@@ -19,5 +19,7 @@ function generatePassword() {
 
     }
 
+  var lowerCase = window.confirm("Click OK to include lowercase letters in your password.");
+
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);

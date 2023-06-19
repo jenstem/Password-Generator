@@ -41,7 +41,7 @@ if (numbersChoosen){
   createdPassword = createdPassword.concat(numberOptions)
   }
 if (specialCharChoosen){
-
+  createdPassword = createdPassword.concat(specialCharOptions)
   }
 // will need a FOR loop
 

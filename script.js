@@ -54,7 +54,8 @@ if (specialCharChoosen){
   var password = "";
 for (let i = 0; i < passwordLength; i++) {
     password += createdPassword[Math.floor(Math.random() * createdPassword.length)]
-  }
+
+return password;
 
 // Starter Code - Start
 // Add event listener to generate button

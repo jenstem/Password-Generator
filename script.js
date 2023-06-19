@@ -22,6 +22,7 @@ function generatePassword() {
   var lowerCase = window.confirm("Click OK to include lowercase letters in your password.");
   var upperCase = window.confirm("Click OK to include uppercase letters in your password.");
   var numbersChoosen = window.confirm("Click OK to include numbers in your password.");
+  var specialCharChoosen = window.confirm("Click OK to include special characters in your password.");
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);

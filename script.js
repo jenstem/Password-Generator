@@ -34,7 +34,9 @@ if (passwordLength < 8 || passwordLength > 128) {
 if (lowerCase){
 
   }
+  if (upperCase){
 
+  }
 // will need a FOR loop
 
 // Add event listener to generate button

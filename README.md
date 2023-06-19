@@ -35,14 +35,14 @@ THEN the password is either displayed in an alert or written to the page
 ## Screenshots:
 
 ![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20Horiseon%20SEO%20Web%20Page.png)
-*This is a screenshot of the Horiseon SEO Web Page*
+*This is a screenshot of the Password Generator when the user first sees it*
 
 ![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20link%20in%20navigation%20bar.jpg)
-*This is a screenshot of the navigation links in the header*
+*This is a screenshot of one of the prompts*
 
 ![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20web%20page%20after%20clicking%20on%20link.jpg)
-*This is a screenshot of the section you are brought to after you click on the navigation link*
+*This is a screenshot of the password once it is generated*
 
 ## Notes:
 
-I used code from [this](https://docs.readme.com/main/docs/linking-to-pages#:~:text=To%20link%20inline%2C%20type%20the,%2C%20%22(y)%22.&text=Reference%2Dstyle%20linking%20allows%20you,refer%20to%20it%20multiple%20times) website (docs.readme.com) to help format this README file.
+I received help from a tutor, [David Elutilo](https://calendly.com/fsf-tutor-team/david-elutilo?month=2023-06) for lines 30, 54, and 59.

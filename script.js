@@ -44,6 +44,9 @@ if (specialCharChoosen){
   createdPassword = createdPassword.concat(specialCharOptions)
   }
 // will need a FOR loop
+for () {
+
+  }
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);

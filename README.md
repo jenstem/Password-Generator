@@ -1,6 +1,6 @@
 ## Password Generator
 
-Click [here](https://jenstem.github.io/horiseon_seo_web_page/) to see the website.
+Click [here](https://jenstem.github.io/Password-Generator/) to see the website.
 
 ## Description
 

@@ -44,7 +44,7 @@ if (specialCharChoosen){
   createdPassword = createdPassword.concat(specialCharOptions)
   }
 // will need a FOR loop
-for () {
+for (let i = 0; i < passwordLength; i++) {
 
   }
 

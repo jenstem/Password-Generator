@@ -20,6 +20,7 @@ function writePassword() {
 
 // Create function to hold prompts
 function generatePassword() {
+// Something to hold choosen options
   var createdPassword = []
     }
 

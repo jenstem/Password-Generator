@@ -31,6 +31,9 @@ if (passwordLength < 8 || passwordLength > 128) {
   var specialCharChoosen = window.confirm("Click OK to include special characters in your password.");
 
 // will need an IF statement
+if (lowerCase){
+
+  }
 
 // will need a FOR loop
 

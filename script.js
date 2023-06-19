@@ -50,6 +50,7 @@ if (specialCharChoosen){
   createdPassword = createdPassword.concat(specialCharOptions)
   }
 
+// Loop through options and add to create password
 // needs work
 for (let i = 0; i < passwordLength; i++) {
     password += createdPassword[Math.floor(Math.random() * createdPassword.length)]

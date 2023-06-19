@@ -45,7 +45,7 @@ if (specialCharChoosen){
   }
 // will need a FOR loop
 for (let i = 0; i < passwordLength; i++) {
-
+    Math.floor(Math.random()
   }
 
 // Add event listener to generate button

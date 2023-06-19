@@ -32,7 +32,7 @@ if (passwordLength < 8 || passwordLength > 128) {
 
 // will need an IF statement
 if (lowerCase){
-
+  createdPassword = createdPassword.concat(lowerCaseOptions)
   }
 if (upperCase){
 

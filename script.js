@@ -36,6 +36,7 @@ if (passwordLength < 8 || passwordLength > 128) {
   var numbersChoosen = window.confirm("Click OK to include numbers in your password.");
   var specialCharChoosen = window.confirm("Click OK to include special characters in your password.");
 
+// Add options to password with concat - multiple if statement for each option
 if (lowerCase){
   createdPassword = createdPassword.concat(lowerCaseOptions)
   }

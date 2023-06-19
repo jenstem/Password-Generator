@@ -43,7 +43,7 @@ THEN the password is either displayed in an alert or written to the page
 ##
 
 ![](https://github.com/jenstem/Password-Generator/blob/main/assets/passwordgen.png)
-*This is a screenshot of the password once it is generated*\
+*This is a screenshot of the password once it is generated*
 ##
 
 ## Notes:

@@ -16,7 +16,7 @@ function writePassword() {
 }
 
 function generatePassword() {
-
+// will need function for password length
     }
 
   var lowerCase = window.confirm("Click OK to include lowercase letters in your password.");

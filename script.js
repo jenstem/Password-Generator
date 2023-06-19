@@ -22,7 +22,6 @@ function writePassword() {
 function generatePassword() {
 // Something to hold choosen options
   var createdPassword = []
-    }
 
 // Prompts
 var passwordLength = window.prompt("How many characters would you like your password to contain?  Pick a number between 8 and 128.");
@@ -56,6 +55,8 @@ for (let i = 0; i < passwordLength; i++) {
     password += createdPassword[Math.floor(Math.random() * createdPassword.length)]
 
 return password;
+
+}
 
 // Starter Code - Start
 // Add event listener to generate button

@@ -35,10 +35,12 @@ THEN the password is either displayed in an alert or written to the page
 ## Screenshots:
 
 ![](https://github.com/jenstem/Password-Generator/blob/main/assets/passwordlength.png)
-*This is a screenshot of the Password Generator asking for the password length*\
+*This is a screenshot of the Password Generator asking for the password length*
+
 
 ![](https://github.com/jenstem/Password-Generator/blob/main/assets/prompts.png)
-*This is a screenshot of ad additional prompts*\
+*This is a screenshot of ad additional prompts*
+
 
 ![](https://github.com/jenstem/Password-Generator/blob/main/assets/passwordgen.png)
 *This is a screenshot of the password once it is generated*\

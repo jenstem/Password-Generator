@@ -34,7 +34,10 @@ if (passwordLength < 8 || passwordLength > 128) {
 if (lowerCase){
 
   }
-  if (upperCase){
+if (upperCase){
+
+  }
+if (numbersChoosen){
 
   }
 // will need a FOR loop

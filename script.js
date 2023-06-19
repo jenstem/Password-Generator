@@ -40,6 +40,9 @@ if (upperCase){
 if (numbersChoosen){
 
   }
+if (specialCharChoosen){
+
+  }
 // will need a FOR loop
 
 // Add event listener to generate button

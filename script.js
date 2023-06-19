@@ -21,7 +21,7 @@ function generatePassword() {
 
 // will need function for password length
 
-// will need prompt for pw length
+var passwordLength = window.prompt("How many characters would you like your password to contain?  Pick a number between 8 and 128.");
 
   var lowerCase = window.confirm("Click OK to include lowercase letters in your password.");
   var upperCase = window.confirm("Click OK to include uppercase letters in your password.");

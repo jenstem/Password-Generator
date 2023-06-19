@@ -16,8 +16,10 @@ function writePassword() {
 }
 
 function generatePassword() {
-// will need function for password length
+
     }
+
+// will need function for password length
 
 // will need prompt for pw length
 

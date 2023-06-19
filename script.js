@@ -24,6 +24,7 @@ function generatePassword() {
   var createdPassword = []
     }
 
+// Prompts
 // needs work
 var passwordLength = window.prompt("How many characters would you like your password to contain?  Pick a number between 8 and 128.");
 if (passwordLength < 8 || passwordLength > 128) {

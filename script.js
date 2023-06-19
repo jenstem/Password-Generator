@@ -56,5 +56,7 @@ for (let i = 0; i < passwordLength; i++) {
     password += createdPassword[Math.floor(Math.random() * createdPassword.length)]
   }
 
+// Starter Code - Start
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+// Starter Code - End

@@ -18,6 +18,7 @@ function writePassword() {
 }
 // Starter Code - End
 
+// Create function to hold prompts
 function generatePassword() {
   var createdPassword = []
     }

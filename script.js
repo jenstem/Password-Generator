@@ -19,7 +19,7 @@ function generatePassword() {
   var createdPassword = []
     }
 
-
+// needs work
 var passwordLength = window.prompt("How many characters would you like your password to contain?  Pick a number between 8 and 128.");
 if (passwordLength < 8 || passwordLength > 128) {
     window.alert("Please pick a number between 8 and 128.");
@@ -43,6 +43,7 @@ if (specialCharChoosen){
   createdPassword = createdPassword.concat(specialCharOptions)
   }
 
+// needs work
 for (let i = 0; i < passwordLength; i++) {
     password += createdPassword[Math.floor(Math.random() * createdPassword.length)]
   }

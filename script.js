@@ -25,11 +25,11 @@ function generatePassword() {
     }
 
 // Prompts
-// needs work
 var passwordLength = window.prompt("How many characters would you like your password to contain?  Pick a number between 8 and 128.");
 if (passwordLength < 8 || passwordLength > 128) {
-    window.alert("Please pick a number between 8 and 128.");
-  }
+  window.alert("Please pick a number between 8 and 128.");
+  return;
+}
 
   var lowerCase = window.confirm("Click OK to include lowercase letters in your password.");
   var upperCase = window.confirm("Click OK to include uppercase letters in your password.");

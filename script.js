@@ -35,7 +35,7 @@ var upperCase = window.confirm("Click OK to include uppercase letters in your pa
 var numbersChoosen = window.confirm("Click OK to include numbers in your password.");
 var specialCharChoosen = window.confirm("Click OK to include special characters in your password.");
 
-// Add options to password with concat - multiple if statement for each option
+// Add options to password with concat - if statement for each option
 if (lowerCase){
   createdPassword = createdPassword.concat(lowerCaseOptions)
   }

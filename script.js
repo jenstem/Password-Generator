@@ -26,5 +26,7 @@ function generatePassword() {
 
 // will need an IF statement
 
+// will need a FOR loop
+
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);

@@ -38,7 +38,7 @@ if (upperCase){
   createdPassword = createdPassword.concat(upperCaseOptions)
   }
 if (numbersChoosen){
-
+  createdPassword = createdPassword.concat(numberOptions)
   }
 if (specialCharChoosen){
 
